@@ -1,0 +1,1684 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Melvin Seevinck//Wandelplan 6 maanden//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wandelplan 6 maanden
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+X-LIC-LOCATION:Europe/Amsterdam
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:332efa56-9d2b-4e14-81d9-25b1f8be99a6@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260706T193000
+DTEND;TZID=Europe/Amsterdam:20260706T194000
+SUMMARY:Wandelplan week 1: 10 minuten wandelen
+DESCRIPTION:Doel vandaag: 10 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:08cb589c-7bb3-4058-9312-d22e4fb1f206@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260708T193000
+DTEND;TZID=Europe/Amsterdam:20260708T194000
+SUMMARY:Wandelplan week 1: 10 minuten wandelen
+DESCRIPTION:Doel vandaag: 10 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:fee85dba-0960-46bc-a62e-8d47bb388c1d@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260711T193000
+DTEND;TZID=Europe/Amsterdam:20260711T194500
+SUMMARY:Wandelplan week 1: 15 minuten wandelen
+DESCRIPTION:Doel vandaag: 15 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:714b48c2-016f-49c0-b402-5967ca784421@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260712T204500
+DTEND;TZID=Europe/Amsterdam:20260712T210000
+SUMMARY:Week 1 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:8ca8d194-8751-49f2-afcd-073616707d07@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260713T193000
+DTEND;TZID=Europe/Amsterdam:20260713T194000
+SUMMARY:Wandelplan week 2: 10 minuten wandelen
+DESCRIPTION:Doel vandaag: 10 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:b68db1ab-2809-4fab-bffc-e44b7e0f3e77@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260715T193000
+DTEND;TZID=Europe/Amsterdam:20260715T194000
+SUMMARY:Wandelplan week 2: 10 minuten wandelen
+DESCRIPTION:Doel vandaag: 10 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:536d167a-7f56-406f-bfd2-e606f9a7cf35@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260718T193000
+DTEND;TZID=Europe/Amsterdam:20260718T194500
+SUMMARY:Wandelplan week 2: 15 minuten wandelen
+DESCRIPTION:Doel vandaag: 15 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:2684a675-8db6-48e4-a776-475d25b16747@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260719T204500
+DTEND;TZID=Europe/Amsterdam:20260719T210000
+SUMMARY:Week 2 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:e315e418-9659-4cce-bcc6-3fdfe3feb2f4@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260720T193000
+DTEND;TZID=Europe/Amsterdam:20260720T194500
+SUMMARY:Wandelplan week 3: 15 minuten wandelen
+DESCRIPTION:Doel vandaag: 15 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:1b9d0a9f-8685-4dbf-870d-5759ee9eb0f0@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260722T193000
+DTEND;TZID=Europe/Amsterdam:20260722T194500
+SUMMARY:Wandelplan week 3: 15 minuten wandelen
+DESCRIPTION:Doel vandaag: 15 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:760c735c-2277-4b1c-a6a5-6e28946df7f1@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260725T193000
+DTEND;TZID=Europe/Amsterdam:20260725T195000
+SUMMARY:Wandelplan week 3: 20 minuten wandelen
+DESCRIPTION:Doel vandaag: 20 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:14bba9b1-0c16-449f-86d1-a5a897e3f278@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260726T204500
+DTEND;TZID=Europe/Amsterdam:20260726T210000
+SUMMARY:Week 3 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:7aedf59b-5990-460c-8459-b3d93b8d7b68@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260727T193000
+DTEND;TZID=Europe/Amsterdam:20260727T194500
+SUMMARY:Wandelplan week 4: 15 minuten wandelen
+DESCRIPTION:Doel vandaag: 15 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:f2ab7698-bcf2-4885-aa9e-4eae4c43bd02@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260729T193000
+DTEND;TZID=Europe/Amsterdam:20260729T194500
+SUMMARY:Wandelplan week 4: 15 minuten wandelen
+DESCRIPTION:Doel vandaag: 15 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:47f7943b-eed9-4d67-88ec-f7f7894e5737@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260801T193000
+DTEND;TZID=Europe/Amsterdam:20260801T195000
+SUMMARY:Wandelplan week 4: 20 minuten wandelen
+DESCRIPTION:Doel vandaag: 20 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:0b6cd4f5-928f-4ad4-8e46-6a177e1593f6@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260802T204500
+DTEND;TZID=Europe/Amsterdam:20260802T210000
+SUMMARY:Week 4 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:4c50912e-106e-4465-aaa4-dd0712a786a9@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260803T193000
+DTEND;TZID=Europe/Amsterdam:20260803T195000
+SUMMARY:Wandelplan week 5: 20 minuten wandelen
+DESCRIPTION:Doel vandaag: 20 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:2e8ad935-37e8-4bb5-a5ed-ddd7b629d578@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260805T193000
+DTEND;TZID=Europe/Amsterdam:20260805T195000
+SUMMARY:Wandelplan week 5: 20 minuten wandelen
+DESCRIPTION:Doel vandaag: 20 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:3e3eb294-8ef9-4902-aadb-0d47aeeda2f7@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260807T193000
+DTEND;TZID=Europe/Amsterdam:20260807T195000
+SUMMARY:Wandelplan week 5: 20 minuten wandelen
+DESCRIPTION:Doel vandaag: 20 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:5b5cf893-06f3-4690-b72d-6562c3624516@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260809T193000
+DTEND;TZID=Europe/Amsterdam:20260809T195500
+SUMMARY:Wandelplan week 5: 25 minuten wandelen
+DESCRIPTION:Doel vandaag: 25 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:be855686-a414-4162-9e62-7425f1f4833c@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260809T204500
+DTEND;TZID=Europe/Amsterdam:20260809T210000
+SUMMARY:Week 5 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:d929794d-66c4-43ac-82bb-ae812ec9211d@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260810T193000
+DTEND;TZID=Europe/Amsterdam:20260810T195000
+SUMMARY:Wandelplan week 6: 20 minuten wandelen
+DESCRIPTION:Doel vandaag: 20 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:d29a5217-dbf1-43d5-8cd7-7fa102deaf05@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260812T193000
+DTEND;TZID=Europe/Amsterdam:20260812T195000
+SUMMARY:Wandelplan week 6: 20 minuten wandelen
+DESCRIPTION:Doel vandaag: 20 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:a1cf8eab-c605-45c4-b0f5-58c1996f569a@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260814T193000
+DTEND;TZID=Europe/Amsterdam:20260814T195000
+SUMMARY:Wandelplan week 6: 20 minuten wandelen
+DESCRIPTION:Doel vandaag: 20 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:8e60d35a-788d-4fb4-a2d2-19a5dafd7e3a@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260816T193000
+DTEND;TZID=Europe/Amsterdam:20260816T195500
+SUMMARY:Wandelplan week 6: 25 minuten wandelen
+DESCRIPTION:Doel vandaag: 25 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:3218319e-9988-4092-b1c0-55c9d0218eed@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260816T204500
+DTEND;TZID=Europe/Amsterdam:20260816T210000
+SUMMARY:Week 6 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:43c8930d-27dd-48d7-9117-0d5d2075f6b7@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260817T193000
+DTEND;TZID=Europe/Amsterdam:20260817T195000
+SUMMARY:Wandelplan week 7: 20 minuten wandelen
+DESCRIPTION:Doel vandaag: 20 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:cdebabf3-037f-4c7a-8b9c-e93287a7a89e@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260819T193000
+DTEND;TZID=Europe/Amsterdam:20260819T195500
+SUMMARY:Wandelplan week 7: 25 minuten wandelen
+DESCRIPTION:Doel vandaag: 25 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:df78c5a0-6da7-4f29-9bfd-b18abded4293@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260821T193000
+DTEND;TZID=Europe/Amsterdam:20260821T195000
+SUMMARY:Wandelplan week 7: 20 minuten wandelen
+DESCRIPTION:Doel vandaag: 20 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:d7c2bfdf-f805-4632-9a96-4037333e3496@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260823T193000
+DTEND;TZID=Europe/Amsterdam:20260823T200000
+SUMMARY:Wandelplan week 7: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:11a79a56-dc1d-49ae-88cb-4ecf52d9c66e@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260823T204500
+DTEND;TZID=Europe/Amsterdam:20260823T210000
+SUMMARY:Week 7 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:21557178-2f0e-4173-a544-61c07835e349@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260824T193000
+DTEND;TZID=Europe/Amsterdam:20260824T195000
+SUMMARY:Wandelplan week 8: 20 minuten wandelen
+DESCRIPTION:Doel vandaag: 20 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:0d1e2234-b0ea-45a2-a2fd-64c338b4e1ac@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260826T193000
+DTEND;TZID=Europe/Amsterdam:20260826T195500
+SUMMARY:Wandelplan week 8: 25 minuten wandelen
+DESCRIPTION:Doel vandaag: 25 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:33e891f9-e51a-4fed-ad31-0e9bfb0f9a3f@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260828T193000
+DTEND;TZID=Europe/Amsterdam:20260828T195000
+SUMMARY:Wandelplan week 8: 20 minuten wandelen
+DESCRIPTION:Doel vandaag: 20 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:9af6cb4c-328b-49c7-a8d0-ecf2294783f7@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260830T193000
+DTEND;TZID=Europe/Amsterdam:20260830T200000
+SUMMARY:Wandelplan week 8: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:5840f276-71bc-4545-a87c-4e9efbb8fd9e@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260830T204500
+DTEND;TZID=Europe/Amsterdam:20260830T210000
+SUMMARY:Week 8 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:f9fb24de-7e27-4e7f-81a1-c66d6fe7cd40@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260831T193000
+DTEND;TZID=Europe/Amsterdam:20260831T195500
+SUMMARY:Wandelplan week 9: 25 minuten wandelen
+DESCRIPTION:Doel vandaag: 25 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:e2864678-c09d-4b3d-bb7a-a7ded48e951e@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260902T193000
+DTEND;TZID=Europe/Amsterdam:20260902T195500
+SUMMARY:Wandelplan week 9: 25 minuten wandelen
+DESCRIPTION:Doel vandaag: 25 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:4cac8180-4879-497c-93a6-4ed5fc8bf589@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260904T193000
+DTEND;TZID=Europe/Amsterdam:20260904T195500
+SUMMARY:Wandelplan week 9: 25 minuten wandelen
+DESCRIPTION:Doel vandaag: 25 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:0561f691-8f1e-4b3f-afc4-c3c5d75d0ef7@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260906T193000
+DTEND;TZID=Europe/Amsterdam:20260906T200500
+SUMMARY:Wandelplan week 9: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:a73951dc-b4d3-4ca5-a9f0-4dffd7d37867@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260906T204500
+DTEND;TZID=Europe/Amsterdam:20260906T210000
+SUMMARY:Week 9 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:1fd32458-a121-4dcc-8eb7-dac6550ed6db@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260907T193000
+DTEND;TZID=Europe/Amsterdam:20260907T195500
+SUMMARY:Wandelplan week 10: 25 minuten wandelen
+DESCRIPTION:Doel vandaag: 25 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb7b910c-8518-4054-9ff0-6b60182a0042@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260909T193000
+DTEND;TZID=Europe/Amsterdam:20260909T195500
+SUMMARY:Wandelplan week 10: 25 minuten wandelen
+DESCRIPTION:Doel vandaag: 25 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:8113ad14-ff54-43b3-b009-7915e100207e@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260911T193000
+DTEND;TZID=Europe/Amsterdam:20260911T195500
+SUMMARY:Wandelplan week 10: 25 minuten wandelen
+DESCRIPTION:Doel vandaag: 25 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:37638bc7-c84f-4cc1-9969-4a5863325fc6@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260913T193000
+DTEND;TZID=Europe/Amsterdam:20260913T200500
+SUMMARY:Wandelplan week 10: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:6f4a04d0-ef97-4e77-af22-7278cf831677@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260913T204500
+DTEND;TZID=Europe/Amsterdam:20260913T210000
+SUMMARY:Week 10 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:3fc0bab4-8720-4999-84d9-6b1030846e3e@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260914T193000
+DTEND;TZID=Europe/Amsterdam:20260914T200000
+SUMMARY:Wandelplan week 11: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:1b22fdb7-4a96-4f5c-80ab-5ecf1d4e7406@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260916T193000
+DTEND;TZID=Europe/Amsterdam:20260916T195500
+SUMMARY:Wandelplan week 11: 25 minuten wandelen
+DESCRIPTION:Doel vandaag: 25 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:8d61662a-b049-4495-a4ee-9814c8126944@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260918T193000
+DTEND;TZID=Europe/Amsterdam:20260918T200000
+SUMMARY:Wandelplan week 11: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:5d75768d-2a5d-4813-9719-d4e7f15adfee@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260920T193000
+DTEND;TZID=Europe/Amsterdam:20260920T201000
+SUMMARY:Wandelplan week 11: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:1879f908-afde-4198-8b57-073fbe7a147a@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260920T204500
+DTEND;TZID=Europe/Amsterdam:20260920T210000
+SUMMARY:Week 11 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:2a31ed64-7fd4-435b-beb1-c097d2bc613b@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260921T193000
+DTEND;TZID=Europe/Amsterdam:20260921T200000
+SUMMARY:Wandelplan week 12: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:31cc4b29-723c-41c4-806e-3cd478183c3a@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260923T193000
+DTEND;TZID=Europe/Amsterdam:20260923T195500
+SUMMARY:Wandelplan week 12: 25 minuten wandelen
+DESCRIPTION:Doel vandaag: 25 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:5cff80c4-940a-4a5a-ac46-e11831f49aa7@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260925T193000
+DTEND;TZID=Europe/Amsterdam:20260925T200000
+SUMMARY:Wandelplan week 12: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:870d4dc9-1a74-44e9-bf97-06472e7d936f@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260927T193000
+DTEND;TZID=Europe/Amsterdam:20260927T201000
+SUMMARY:Wandelplan week 12: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:bfbef25a-36e4-49c9-ab74-0bd482bb6165@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260927T204500
+DTEND;TZID=Europe/Amsterdam:20260927T210000
+SUMMARY:Week 12 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:d6f93666-b4c0-470f-970d-4d074049f313@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260928T193000
+DTEND;TZID=Europe/Amsterdam:20260928T200000
+SUMMARY:Wandelplan week 13: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:e0edb5fb-d7ef-4388-933d-3ae8f696663d@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260930T193000
+DTEND;TZID=Europe/Amsterdam:20260930T200000
+SUMMARY:Wandelplan week 13: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:1a2af065-2a9b-48a6-a601-8554d7d4972e@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261002T193000
+DTEND;TZID=Europe/Amsterdam:20261002T200000
+SUMMARY:Wandelplan week 13: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:24e76052-8b88-4bae-ba6e-8f6d81f68d3b@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261004T193000
+DTEND;TZID=Europe/Amsterdam:20261004T201500
+SUMMARY:Wandelplan week 13: 45 minuten wandelen
+DESCRIPTION:Doel vandaag: 45 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:a16a6adc-3d8c-4d33-8ee1-8a74e0245b9d@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261004T204500
+DTEND;TZID=Europe/Amsterdam:20261004T210000
+SUMMARY:Week 13 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:965094b7-8750-4f27-8d70-ead0162d19b3@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261005T193000
+DTEND;TZID=Europe/Amsterdam:20261005T200000
+SUMMARY:Wandelplan week 14: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:9cd205d6-358b-4720-87b5-de61694158ea@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261007T193000
+DTEND;TZID=Europe/Amsterdam:20261007T200000
+SUMMARY:Wandelplan week 14: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:19ab2ef3-7289-48a3-881a-9bc6ded53d6e@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261009T193000
+DTEND;TZID=Europe/Amsterdam:20261009T200000
+SUMMARY:Wandelplan week 14: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:6963ee4b-7db6-48db-9f0f-3172db03ef08@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261011T193000
+DTEND;TZID=Europe/Amsterdam:20261011T201500
+SUMMARY:Wandelplan week 14: 45 minuten wandelen
+DESCRIPTION:Doel vandaag: 45 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:e5037b0b-f4c8-41c8-8699-670910b69040@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261011T204500
+DTEND;TZID=Europe/Amsterdam:20261011T210000
+SUMMARY:Week 14 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:82cab7d4-3213-461f-80e2-d9e1722cbd21@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261012T193000
+DTEND;TZID=Europe/Amsterdam:20261012T200500
+SUMMARY:Wandelplan week 15: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:35d73c3f-62d9-4ea6-bd28-ce6bd3bdbe1d@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261014T193000
+DTEND;TZID=Europe/Amsterdam:20261014T200000
+SUMMARY:Wandelplan week 15: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:6756c149-948b-4f7c-95e9-6ae48c6b1207@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261016T193000
+DTEND;TZID=Europe/Amsterdam:20261016T200500
+SUMMARY:Wandelplan week 15: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:567b5040-7cef-404c-a568-19288aa7e30d@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261018T193000
+DTEND;TZID=Europe/Amsterdam:20261018T202000
+SUMMARY:Wandelplan week 15: 50 minuten wandelen
+DESCRIPTION:Doel vandaag: 50 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:3b912147-7e8d-47ee-858a-e2797ce75286@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261018T204500
+DTEND;TZID=Europe/Amsterdam:20261018T210000
+SUMMARY:Week 15 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:af5c8f69-14c7-48bc-956f-3c5946cce39e@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261019T193000
+DTEND;TZID=Europe/Amsterdam:20261019T200500
+SUMMARY:Wandelplan week 16: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:b716c99c-1295-4c16-bca1-612000b2e72b@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261021T193000
+DTEND;TZID=Europe/Amsterdam:20261021T200000
+SUMMARY:Wandelplan week 16: 30 minuten wandelen
+DESCRIPTION:Doel vandaag: 30 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:78fc80db-ebe6-447f-9a2a-d3dfdd7010e0@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261023T193000
+DTEND;TZID=Europe/Amsterdam:20261023T200500
+SUMMARY:Wandelplan week 16: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:9c993a43-fddb-4624-a1ad-63516dd49528@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261025T193000
+DTEND;TZID=Europe/Amsterdam:20261025T202000
+SUMMARY:Wandelplan week 16: 50 minuten wandelen
+DESCRIPTION:Doel vandaag: 50 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:686c8f6d-36f4-44fd-8473-dc226c084fde@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261025T204500
+DTEND;TZID=Europe/Amsterdam:20261025T210000
+SUMMARY:Week 16 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:de536ed8-4db8-4020-ba23-de918add03b5@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261026T193000
+DTEND;TZID=Europe/Amsterdam:20261026T200500
+SUMMARY:Wandelplan week 17: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:a9f0d3c3-d108-44ae-a712-a92a08cad916@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261028T193000
+DTEND;TZID=Europe/Amsterdam:20261028T200500
+SUMMARY:Wandelplan week 17: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:87cef8de-1814-40b0-8733-2098cb5a0229@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261030T193000
+DTEND;TZID=Europe/Amsterdam:20261030T200500
+SUMMARY:Wandelplan week 17: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:a7f5aed1-b13e-4b7b-9497-9ac5d60b9da1@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261101T193000
+DTEND;TZID=Europe/Amsterdam:20261101T202500
+SUMMARY:Wandelplan week 17: 55 minuten wandelen
+DESCRIPTION:Doel vandaag: 55 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:a7aed5e7-6bd8-42e4-9063-bf7c71da753d@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261101T204500
+DTEND;TZID=Europe/Amsterdam:20261101T210000
+SUMMARY:Week 17 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:8a92f273-dda5-4a67-a958-3212e18c0a5c@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261102T193000
+DTEND;TZID=Europe/Amsterdam:20261102T200500
+SUMMARY:Wandelplan week 18: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:76bd2bdc-4937-4963-9d27-4658552b5570@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261104T193000
+DTEND;TZID=Europe/Amsterdam:20261104T200500
+SUMMARY:Wandelplan week 18: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:35fadad5-8bf6-4e05-9e54-d78bc511562a@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261106T193000
+DTEND;TZID=Europe/Amsterdam:20261106T200500
+SUMMARY:Wandelplan week 18: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:38080d86-59a8-4cd9-9b0e-fc6d22de6cd9@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261108T193000
+DTEND;TZID=Europe/Amsterdam:20261108T202500
+SUMMARY:Wandelplan week 18: 55 minuten wandelen
+DESCRIPTION:Doel vandaag: 55 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:a784221d-f5e7-4ee4-952f-e2132c70b40d@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261108T204500
+DTEND;TZID=Europe/Amsterdam:20261108T210000
+SUMMARY:Week 18 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:0481cc7e-438f-4deb-b33b-f2f7599e6de9@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261109T193000
+DTEND;TZID=Europe/Amsterdam:20261109T201000
+SUMMARY:Wandelplan week 19: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:2e93f4cf-3751-41a3-91cb-0cc9738ebfb9@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261111T193000
+DTEND;TZID=Europe/Amsterdam:20261111T200500
+SUMMARY:Wandelplan week 19: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:2e0467de-ae20-45ec-a741-dee8f65b9740@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261113T193000
+DTEND;TZID=Europe/Amsterdam:20261113T201000
+SUMMARY:Wandelplan week 19: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:1971078a-1cc3-4c34-a4e4-d718dde9c7df@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261115T193000
+DTEND;TZID=Europe/Amsterdam:20261115T203000
+SUMMARY:Wandelplan week 19: 60 minuten wandelen
+DESCRIPTION:Doel vandaag: 60 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:f7a5d2ae-f0a9-409e-9b82-37a077ab82da@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261115T204500
+DTEND;TZID=Europe/Amsterdam:20261115T210000
+SUMMARY:Week 19 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:35975208-3861-4bd1-a9b3-ea7f87d5dc03@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261116T193000
+DTEND;TZID=Europe/Amsterdam:20261116T201000
+SUMMARY:Wandelplan week 20: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:e11777b4-a7d4-4ad4-be09-ca291c3e203f@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261118T193000
+DTEND;TZID=Europe/Amsterdam:20261118T200500
+SUMMARY:Wandelplan week 20: 35 minuten wandelen
+DESCRIPTION:Doel vandaag: 35 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:13f35148-a228-486b-92d9-75ad453a1c71@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261120T193000
+DTEND;TZID=Europe/Amsterdam:20261120T201000
+SUMMARY:Wandelplan week 20: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:920e60a1-f4e1-41b2-a959-532a2be19640@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261122T193000
+DTEND;TZID=Europe/Amsterdam:20261122T203000
+SUMMARY:Wandelplan week 20: 60 minuten wandelen
+DESCRIPTION:Doel vandaag: 60 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:ac89f607-cbba-40bf-9880-8aa739d58626@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261122T204500
+DTEND;TZID=Europe/Amsterdam:20261122T210000
+SUMMARY:Week 20 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:d455dcd2-7c70-4235-bc7a-20675a514461@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261123T193000
+DTEND;TZID=Europe/Amsterdam:20261123T201000
+SUMMARY:Wandelplan week 21: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:b7c08504-b832-44df-96e5-9abda373bfbd@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261125T193000
+DTEND;TZID=Europe/Amsterdam:20261125T201000
+SUMMARY:Wandelplan week 21: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:dba6f7fa-bf6d-4b41-ba10-8587109296e3@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261127T193000
+DTEND;TZID=Europe/Amsterdam:20261127T201000
+SUMMARY:Wandelplan week 21: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:8e2a8ef2-7c29-45ba-9d28-dfe5d0e88f4f@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261129T193000
+DTEND;TZID=Europe/Amsterdam:20261129T203500
+SUMMARY:Wandelplan week 21: 65 minuten wandelen
+DESCRIPTION:Doel vandaag: 65 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:b0e0bf4a-026c-4da7-a6f1-9cd5295c541d@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261129T204500
+DTEND;TZID=Europe/Amsterdam:20261129T210000
+SUMMARY:Week 21 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:dd88662a-2c5e-4221-8035-ced4b1545578@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261130T193000
+DTEND;TZID=Europe/Amsterdam:20261130T201000
+SUMMARY:Wandelplan week 22: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:a2813edd-983b-4769-bae6-1b855b027ce0@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261202T193000
+DTEND;TZID=Europe/Amsterdam:20261202T201000
+SUMMARY:Wandelplan week 22: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:0c4b2394-7896-4270-b112-93ed99615fb6@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261204T193000
+DTEND;TZID=Europe/Amsterdam:20261204T201000
+SUMMARY:Wandelplan week 22: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:ba5c4155-30a9-42de-9867-4f9f6cb44f83@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261206T193000
+DTEND;TZID=Europe/Amsterdam:20261206T203500
+SUMMARY:Wandelplan week 22: 65 minuten wandelen
+DESCRIPTION:Doel vandaag: 65 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:03ed81a4-e820-4bec-b438-7be489a161c1@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261206T204500
+DTEND;TZID=Europe/Amsterdam:20261206T210000
+SUMMARY:Week 22 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:e4068e7a-1c0d-4779-8655-06fd28003553@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261207T193000
+DTEND;TZID=Europe/Amsterdam:20261207T201500
+SUMMARY:Wandelplan week 23: 45 minuten wandelen
+DESCRIPTION:Doel vandaag: 45 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:8fd7b32b-952c-4d63-96e0-fa67562accd2@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261209T193000
+DTEND;TZID=Europe/Amsterdam:20261209T201000
+SUMMARY:Wandelplan week 23: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:4061b047-a8f1-4640-a782-020734353ca5@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261211T193000
+DTEND;TZID=Europe/Amsterdam:20261211T201500
+SUMMARY:Wandelplan week 23: 45 minuten wandelen
+DESCRIPTION:Doel vandaag: 45 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:3d22d691-9b48-4ac3-a3fc-b991de4c5319@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261213T193000
+DTEND;TZID=Europe/Amsterdam:20261213T204000
+SUMMARY:Wandelplan week 23: 70 minuten wandelen
+DESCRIPTION:Doel vandaag: 70 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:42ef0458-96d9-498e-b0a7-39b4563616cc@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261213T204500
+DTEND;TZID=Europe/Amsterdam:20261213T210000
+SUMMARY:Week 23 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:e4efa34a-2a97-42db-a3d9-1de96095b353@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261214T193000
+DTEND;TZID=Europe/Amsterdam:20261214T201500
+SUMMARY:Wandelplan week 24: 45 minuten wandelen
+DESCRIPTION:Doel vandaag: 45 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:c9ecfbdb-1022-42d9-a19d-327742ba4e68@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261216T193000
+DTEND;TZID=Europe/Amsterdam:20261216T201000
+SUMMARY:Wandelplan week 24: 40 minuten wandelen
+DESCRIPTION:Doel vandaag: 40 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:171c0769-aecf-4ca1-9a2d-a71fbb20aeb9@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261218T193000
+DTEND;TZID=Europe/Amsterdam:20261218T201500
+SUMMARY:Wandelplan week 24: 45 minuten wandelen
+DESCRIPTION:Doel vandaag: 45 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe64a83-6e52-4ae3-bde8-f7748c04106d@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261220T193000
+DTEND;TZID=Europe/Amsterdam:20261220T204000
+SUMMARY:Wandelplan week 24: 70 minuten wandelen
+DESCRIPTION:Doel vandaag: 70 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:59b2eb03-c516-4507-8143-c70d9fbf718e@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261220T204500
+DTEND;TZID=Europe/Amsterdam:20261220T210000
+SUMMARY:Week 24 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:d2fd0ba9-8467-4241-b1ae-e691f4d83aed@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261221T193000
+DTEND;TZID=Europe/Amsterdam:20261221T201500
+SUMMARY:Wandelplan week 25: 45 minuten wandelen
+DESCRIPTION:Doel vandaag: 45 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:5c9d591b-5830-4046-97bb-254bf89246e8@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261223T193000
+DTEND;TZID=Europe/Amsterdam:20261223T201500
+SUMMARY:Wandelplan week 25: 45 minuten wandelen
+DESCRIPTION:Doel vandaag: 45 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:1b5174df-01bc-46fe-865c-ce62cf4faa17@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261225T193000
+DTEND;TZID=Europe/Amsterdam:20261225T201500
+SUMMARY:Wandelplan week 25: 45 minuten wandelen
+DESCRIPTION:Doel vandaag: 45 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:9594778c-960c-4f3a-a97b-7f2df25ab434@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261227T193000
+DTEND;TZID=Europe/Amsterdam:20261227T204500
+SUMMARY:Wandelplan week 25: 75 minuten wandelen
+DESCRIPTION:Doel vandaag: 75 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:fabe83b8-e907-48f3-926a-363bfd7e43a8@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261227T204500
+DTEND;TZID=Europe/Amsterdam:20261227T210000
+SUMMARY:Week 25 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:ad491650-4e59-454b-b5ba-94ec07658971@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261228T193000
+DTEND;TZID=Europe/Amsterdam:20261228T201500
+SUMMARY:Wandelplan week 26: 45 minuten wandelen
+DESCRIPTION:Doel vandaag: 45 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:78d38760-c680-47de-a7a5-893cc3111d37@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261230T193000
+DTEND;TZID=Europe/Amsterdam:20261230T201500
+SUMMARY:Wandelplan week 26: 45 minuten wandelen
+DESCRIPTION:Doel vandaag: 45 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: comfortabel tempo\, korte 
+ route dichtbij huis is prima.\nSuccescriterium: samen gegaan\, niet de a
+ fstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:27048a74-c182-4915-b4ea-1f92974921d4@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20270101T193000
+DTEND;TZID=Europe/Amsterdam:20270101T201500
+SUMMARY:Wandelplan week 26: 45 minuten wandelen
+DESCRIPTION:Doel vandaag: 45 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: eerste 5 minuten rustig\, 
+ daarna iets actiever doorstappen\, laatste 5 minuten weer rustiger.\nSuc
+ cescriterium: samen gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:755029eb-9df9-45fc-8c2c-f9209588e956@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20270103T193000
+DTEND;TZID=Europe/Amsterdam:20270103T204500
+SUMMARY:Wandelplan week 26: 75 minuten wandelen
+DESCRIPTION:Doel vandaag: 75 minuten wandelen om 19:30.\nStart rustig. Ju
+ llie moeten kunnen blijven praten tijdens het wandelen.\nBij bekkenpijn\
+ , drukgevoel\, urineverlies of duidelijk ongemak: tempo omlaag of stoppe
+ n. De wandeling telt dan nog steeds.\nAanpak: rustige duurwandeling. Gee
+ n prestatie\, vooral tijd in beweging opbouwen.\nSuccescriterium: samen 
+ gegaan\, niet de afstand of snelheid.
+END:VEVENT
+BEGIN:VEVENT
+UID:1f802803-4f3e-4547-b361-ccd0482654ad@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20270103T204500
+DTEND;TZID=Europe/Amsterdam:20270103T210000
+SUMMARY:Week 26 check: wandelgewoonte vasthouden
+DESCRIPTION:Bespreek kort samen:\n- Hebben we onze wandelmomenten gehaald
+ ?\n- Was er bekkenpijn of overbelasting?\n- Wat maken we komende week ma
+ kkelijker?\n- Zijn er avonden die we alvast moeten beschermen?\nNiet com
+ penseren als iets niet gelukt is. Gewoon volgende week verder.
+END:VEVENT
+BEGIN:VEVENT
+UID:126dc443-3656-42e8-ad8e-97eabfe2631e@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260801T190000
+DTEND;TZID=Europe/Amsterdam:20260801T192000
+SUMMARY:Maandcheck: voortgang en motivatie
+DESCRIPTION:Maandelijkse voortgang zonder druk:\n- Gewicht noteren als ju
+ llie dat willen.\n- Eventueel foto maken op dezelfde plek en in dezelfde
+  kleding.\n- Benoem wat beter gaat dan vorige maand.\n- Pas het schema a
+ an als herstel\, slaap of bekkenklachten daarom vragen.\nDoel: fitter wo
+ rden en een gewoonte vasthouden\, niet forceren.
+END:VEVENT
+BEGIN:VEVENT
+UID:afeeaddf-ef82-4e06-89d5-4bcb74c61117@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20260901T190000
+DTEND;TZID=Europe/Amsterdam:20260901T192000
+SUMMARY:Maandcheck: voortgang en motivatie
+DESCRIPTION:Maandelijkse voortgang zonder druk:\n- Gewicht noteren als ju
+ llie dat willen.\n- Eventueel foto maken op dezelfde plek en in dezelfde
+  kleding.\n- Benoem wat beter gaat dan vorige maand.\n- Pas het schema a
+ an als herstel\, slaap of bekkenklachten daarom vragen.\nDoel: fitter wo
+ rden en een gewoonte vasthouden\, niet forceren.
+END:VEVENT
+BEGIN:VEVENT
+UID:783da8e2-4437-4460-a69f-009251222785@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261001T190000
+DTEND;TZID=Europe/Amsterdam:20261001T192000
+SUMMARY:Maandcheck: voortgang en motivatie
+DESCRIPTION:Maandelijkse voortgang zonder druk:\n- Gewicht noteren als ju
+ llie dat willen.\n- Eventueel foto maken op dezelfde plek en in dezelfde
+  kleding.\n- Benoem wat beter gaat dan vorige maand.\n- Pas het schema a
+ an als herstel\, slaap of bekkenklachten daarom vragen.\nDoel: fitter wo
+ rden en een gewoonte vasthouden\, niet forceren.
+END:VEVENT
+BEGIN:VEVENT
+UID:8e6d9162-5dfb-4349-a617-bf4c10ebe049@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261101T190000
+DTEND;TZID=Europe/Amsterdam:20261101T192000
+SUMMARY:Maandcheck: voortgang en motivatie
+DESCRIPTION:Maandelijkse voortgang zonder druk:\n- Gewicht noteren als ju
+ llie dat willen.\n- Eventueel foto maken op dezelfde plek en in dezelfde
+  kleding.\n- Benoem wat beter gaat dan vorige maand.\n- Pas het schema a
+ an als herstel\, slaap of bekkenklachten daarom vragen.\nDoel: fitter wo
+ rden en een gewoonte vasthouden\, niet forceren.
+END:VEVENT
+BEGIN:VEVENT
+UID:fbe3b38f-3ed0-4b7a-ae74-13046cb232dd@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20261201T190000
+DTEND;TZID=Europe/Amsterdam:20261201T192000
+SUMMARY:Maandcheck: voortgang en motivatie
+DESCRIPTION:Maandelijkse voortgang zonder druk:\n- Gewicht noteren als ju
+ llie dat willen.\n- Eventueel foto maken op dezelfde plek en in dezelfde
+  kleding.\n- Benoem wat beter gaat dan vorige maand.\n- Pas het schema a
+ an als herstel\, slaap of bekkenklachten daarom vragen.\nDoel: fitter wo
+ rden en een gewoonte vasthouden\, niet forceren.
+END:VEVENT
+BEGIN:VEVENT
+UID:a5a86510-28b5-4d12-9af2-1fe4405e9fdf@wandelplan-github-pages
+DTSTAMP:20260619T055034Z
+DTSTART;TZID=Europe/Amsterdam:20270101T190000
+DTEND;TZID=Europe/Amsterdam:20270101T192000
+SUMMARY:Maandcheck: voortgang en motivatie
+DESCRIPTION:Maandelijkse voortgang zonder druk:\n- Gewicht noteren als ju
+ llie dat willen.\n- Eventueel foto maken op dezelfde plek en in dezelfde
+  kleding.\n- Benoem wat beter gaat dan vorige maand.\n- Pas het schema a
+ an als herstel\, slaap of bekkenklachten daarom vragen.\nDoel: fitter wo
+ rden en een gewoonte vasthouden\, niet forceren.
+END:VEVENT
+END:VCALENDAR
